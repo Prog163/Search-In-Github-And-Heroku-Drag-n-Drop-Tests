@@ -1,6 +1,5 @@
 package com.zaychikov.tests.search_in_github_wiki;
 
-import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
