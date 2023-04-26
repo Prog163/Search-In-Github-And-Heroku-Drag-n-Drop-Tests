@@ -8,7 +8,8 @@
 
 - Откройте страницу SoftAssertions, проверьте что внутри есть пример кода для JUnit5
 
-![img.png](img.png)
+![image](https://user-images.githubusercontent.com/63589855/234605914-2f24198c-8a2d-4e08-a19f-3cfa533bc6b8.png)
+
 
 2. Запрограммируйте Drag&Drop с помощью Selenide.actions()
 
